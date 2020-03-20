@@ -1,0 +1,83 @@
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.exe
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.deps.json
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.runtimeconfig.json
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.runtimeconfig.dev.json
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.dll
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.csprojAssemblyReference.cache
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\staticwebassets\EPS.TSC.StaticWebAssets.Manifest.cache
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\staticwebassets\EPS.TSC.StaticWebAssets.xml
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.AssemblyInfoInputs.cache
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.AssemblyInfo.cs
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.RazorTargetAssemblyInfo.cache
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.dll
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\web.config
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\package.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\web.config
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\package.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.exe
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.deps.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.runtimeconfig.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.runtimeconfig.dev.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.dll
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.csprojAssemblyReference.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\staticwebassets\EPS.TSC.StaticWebAssets.Manifest.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\staticwebassets\EPS.TSC.StaticWebAssets.xml
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.AssemblyInfoInputs.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.AssemblyInfo.cs
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.RazorTargetAssemblyInfo.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.dll
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.pdb
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\web.config
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\package-lock.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\package.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.exe
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.deps.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.runtimeconfig.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.runtimeconfig.dev.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.dll
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.pdb
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\staticwebassets\EPS.TSC.StaticWebAssets.Manifest.cache
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\staticwebassets\EPS.TSC.StaticWebAssets.xml
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.MvcApplicationPartsAssemblyInfo.cache
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.AssemblyInfoInputs.cache
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.AssemblyInfo.cs
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.RazorTargetAssemblyInfo.cache
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.dll
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.pdb
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\web.config
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\package-lock.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\package.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.exe
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.deps.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.runtimeconfig.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.runtimeconfig.dev.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.dll
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\bin\Debug\netcoreapp3.1\EPS.TSC.pdb
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\staticwebassets\EPS.TSC.StaticWebAssets.Manifest.cache
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\staticwebassets\EPS.TSC.StaticWebAssets.xml
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.MvcApplicationPartsAssemblyInfo.cache
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.AssemblyInfoInputs.cache
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.AssemblyInfo.cs
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.RazorTargetAssemblyInfo.cache
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.dll
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.pdb
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC\obj\Debug\netcoreapp3.1\EPS.TSC.csprojAssemblyReference.cache

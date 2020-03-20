@@ -1,0 +1,100 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>3</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\dist\**" />
+    <Compile Remove="wwwroot\src\views\base\**" />
+    <Compile Remove="wwwroot\src\views\buttons\**" />
+    <Compile Remove="wwwroot\src\views\calls\**" />
+    <Compile Remove="wwwroot\src\views\charts\**" />
+    <Compile Remove="wwwroot\src\views\dashboard\**" />
+    <Compile Remove="wwwroot\src\views\employee\**" />
+    <Compile Remove="wwwroot\src\views\icons\**" />
+    <Compile Remove="wwwroot\src\views\masterdata\**" />
+    <Compile Remove="wwwroot\src\views\notifications\**" />
+    <Compile Remove="wwwroot\src\views\order\**" />
+    <Compile Remove="wwwroot\src\views\product\**" />
+    <Compile Remove="wwwroot\src\views\profile\**" />
+    <Compile Remove="wwwroot\src\views\system\unit\**" />
+    <Compile Remove="wwwroot\src\views\theme\**" />
+    <Compile Remove="wwwroot\src\views\upload\**" />
+    <Compile Remove="wwwroot\src\views\widgets\**" />
+    <Content Remove="wwwroot\dist\**" />
+    <Content Remove="wwwroot\src\views\base\**" />
+    <Content Remove="wwwroot\src\views\buttons\**" />
+    <Content Remove="wwwroot\src\views\calls\**" />
+    <Content Remove="wwwroot\src\views\charts\**" />
+    <Content Remove="wwwroot\src\views\dashboard\**" />
+    <Content Remove="wwwroot\src\views\employee\**" />
+    <Content Remove="wwwroot\src\views\icons\**" />
+    <Content Remove="wwwroot\src\views\masterdata\**" />
+    <Content Remove="wwwroot\src\views\notifications\**" />
+    <Content Remove="wwwroot\src\views\order\**" />
+    <Content Remove="wwwroot\src\views\product\**" />
+    <Content Remove="wwwroot\src\views\profile\**" />
+    <Content Remove="wwwroot\src\views\system\unit\**" />
+    <Content Remove="wwwroot\src\views\theme\**" />
+    <Content Remove="wwwroot\src\views\upload\**" />
+    <Content Remove="wwwroot\src\views\widgets\**" />
+    <EmbeddedResource Remove="wwwroot\dist\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\base\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\buttons\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\calls\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\charts\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\dashboard\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\employee\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\icons\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\masterdata\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\notifications\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\order\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\product\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\profile\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\system\unit\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\theme\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\upload\**" />
+    <EmbeddedResource Remove="wwwroot\src\views\widgets\**" />
+    <None Remove="wwwroot\dist\**" />
+    <None Remove="wwwroot\src\views\base\**" />
+    <None Remove="wwwroot\src\views\buttons\**" />
+    <None Remove="wwwroot\src\views\calls\**" />
+    <None Remove="wwwroot\src\views\charts\**" />
+    <None Remove="wwwroot\src\views\dashboard\**" />
+    <None Remove="wwwroot\src\views\employee\**" />
+    <None Remove="wwwroot\src\views\icons\**" />
+    <None Remove="wwwroot\src\views\masterdata\**" />
+    <None Remove="wwwroot\src\views\notifications\**" />
+    <None Remove="wwwroot\src\views\order\**" />
+    <None Remove="wwwroot\src\views\product\**" />
+    <None Remove="wwwroot\src\views\profile\**" />
+    <None Remove="wwwroot\src\views\system\unit\**" />
+    <None Remove="wwwroot\src\views\theme\**" />
+    <None Remove="wwwroot\src\views\upload\**" />
+    <None Remove="wwwroot\src\views\widgets\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\src\views\Charts.vue" />
+    <Content Remove="wwwroot\src\views\Dashboard.vue" />
+    <Content Remove="wwwroot\src\views\Widgets.vue" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\src\views\reports\" />
+    <Folder Include="wwwroot\src\views\search\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\src\views\pages\Login.vue" />
+    <None Include="wwwroot\src\views\pages\Page404.vue" />
+    <None Include="wwwroot\src\views\pages\Page500.vue" />
+    <None Include="wwwroot\src\views\pages\Register.vue" />
+  </ItemGroup>
+
+</Project>

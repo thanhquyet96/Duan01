@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>EPS.TSC.Data</id>
+    <version>1.0.0</version>
+    <authors>EPS.TSC.Data</authors>
+    <owners>EPS.TSC.Data</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="EPS.Utils.Repository" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.DataProtection.EntityFrameworkCore" version="2.2.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="2.2.6" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Design" version="2.2.6" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Proxies" version="2.2.6" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="3.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Identity.Stores" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Oracle.EntityFrameworkCore" version="2.19.60" exclude="Build,Analyzers" />
+        <dependency id="Oracle.ManagedDataAccess.Core" version="2.19.60" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC.Data\bin\Debug\netcoreapp3.1\EPS.TSC.Data.runtimeconfig.json" target="lib\netcoreapp3.1\EPS.TSC.Data.runtimeconfig.json" />
+    <file src="D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.TSC.Data\bin\Debug\netcoreapp3.1\EPS.TSC.Data.dll" target="lib\netcoreapp3.1\EPS.TSC.Data.dll" />
+  </files>
+</package>

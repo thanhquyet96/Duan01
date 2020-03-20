@@ -1,0 +1,8 @@
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Common\bin\Debug\netcoreapp3.1\Vimazic.Utils.Common.deps.json
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Common\bin\Debug\netcoreapp3.1\Vimazic.Utils.Common.dll
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Common\bin\Debug\netcoreapp3.1\Vimazic.Utils.Common.pdb
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Common\obj\Debug\netcoreapp3.1\Vimazic.Utils.Common.csprojAssemblyReference.cache
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Common\obj\Debug\netcoreapp3.1\Vimazic.Utils.Common.AssemblyInfoInputs.cache
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Common\obj\Debug\netcoreapp3.1\Vimazic.Utils.Common.AssemblyInfo.cs
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Common\obj\Debug\netcoreapp3.1\Vimazic.Utils.Common.dll
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Common\obj\Debug\netcoreapp3.1\Vimazic.Utils.Common.pdb

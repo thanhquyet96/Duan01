@@ -1,0 +1,40 @@
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.deps.json
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfoInputs.cache
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfo.cs
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.csprojAssemblyReference.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.deps.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.csprojAssemblyReference.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfoInputs.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfo.cs
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.deps.json
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.csprojAssemblyReference.cache
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfoInputs.cache
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfo.cs
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\thienhoang\eHRM-New\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.deps.json
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.csprojAssemblyReference.cache
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfoInputs.cache
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfo.cs
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\work\thienhoang\CSDLQG\Trunk\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\work-new\QIT\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.deps.json
+D:\work-new\QIT\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\work-new\QIT\EPS.TSC\EPS.Utils.Common\bin\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\work-new\QIT\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfoInputs.cache
+D:\work-new\QIT\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.AssemblyInfo.cs
+D:\work-new\QIT\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.dll
+D:\work-new\QIT\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\work-new\QIT\EPS.TSC\EPS.Utils.Common\obj\Debug\netcoreapp3.1\EPS.Utils.Common.csprojAssemblyReference.cache

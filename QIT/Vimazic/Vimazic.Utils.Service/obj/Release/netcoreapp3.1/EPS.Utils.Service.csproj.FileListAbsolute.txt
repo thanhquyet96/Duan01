@@ -1,0 +1,13 @@
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\bin\Release\netcoreapp3.1\EPS.Utils.Service.deps.json
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\bin\Release\netcoreapp3.1\EPS.Utils.Service.dll
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\bin\Release\netcoreapp3.1\EPS.Utils.Service.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\bin\Release\netcoreapp3.1\EPS.Utils.Common.dll
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\bin\Release\netcoreapp3.1\EPS.Utils.Repository.dll
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\bin\Release\netcoreapp3.1\EPS.Utils.Repository.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\bin\Release\netcoreapp3.1\EPS.Utils.Common.pdb
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\obj\Release\netcoreapp3.1\EPS.Utils.Service.csprojAssemblyReference.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\obj\Release\netcoreapp3.1\EPS.Utils.Service.AssemblyInfoInputs.cache
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\obj\Release\netcoreapp3.1\EPS.Utils.Service.AssemblyInfo.cs
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\obj\Release\netcoreapp3.1\EPS.Utils.Service.csproj.CopyComplete
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\obj\Release\netcoreapp3.1\EPS.Utils.Service.dll
+D:\Work\Thien Hoang\CSDLQGTSC\BTC-2018-CSDLQGTSC\Development .NET\Trunk\EPS.TSC\EPS.Utils.Service\obj\Release\netcoreapp3.1\EPS.Utils.Service.pdb

@@ -1,0 +1,11 @@
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\bin\Debug\netcoreapp3.1\Vimazic.Utils.Repository.deps.json
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\bin\Debug\netcoreapp3.1\Vimazic.Utils.Repository.dll
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\bin\Debug\netcoreapp3.1\Vimazic.Utils.Repository.pdb
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\bin\Debug\netcoreapp3.1\Vimazic.Utils.Common.dll
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\bin\Debug\netcoreapp3.1\Vimazic.Utils.Common.pdb
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\obj\Debug\netcoreapp3.1\Vimazic.Utils.Repository.csprojAssemblyReference.cache
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\obj\Debug\netcoreapp3.1\Vimazic.Utils.Repository.AssemblyInfoInputs.cache
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\obj\Debug\netcoreapp3.1\Vimazic.Utils.Repository.AssemblyInfo.cs
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\obj\Debug\netcoreapp3.1\Vimazic.Utils.Repository.csproj.CopyComplete
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\obj\Debug\netcoreapp3.1\Vimazic.Utils.Repository.dll
+D:\work-new\QIT\Vimazic\Vimazic.Utils.Repository\obj\Debug\netcoreapp3.1\Vimazic.Utils.Repository.pdb

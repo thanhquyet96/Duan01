@@ -1,0 +1,15 @@
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Data.deps.json
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Data.runtimeconfig.json
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Data.runtimeconfig.dev.json
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Data.dll
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Data.pdb
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Utils.Common.dll
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Utils.Repository.dll
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Utils.Repository.pdb
+D:\work-new\QIT\Vimazic\Vimazic.Data\bin\Debug\netcoreapp3.1\Vimazic.Utils.Common.pdb
+D:\work-new\QIT\Vimazic\Vimazic.Data\obj\Debug\netcoreapp3.1\Vimazic.Data.csprojAssemblyReference.cache
+D:\work-new\QIT\Vimazic\Vimazic.Data\obj\Debug\netcoreapp3.1\Vimazic.Data.AssemblyInfoInputs.cache
+D:\work-new\QIT\Vimazic\Vimazic.Data\obj\Debug\netcoreapp3.1\Vimazic.Data.AssemblyInfo.cs
+D:\work-new\QIT\Vimazic\Vimazic.Data\obj\Debug\netcoreapp3.1\Vimazic.Data.csproj.CopyComplete
+D:\work-new\QIT\Vimazic\Vimazic.Data\obj\Debug\netcoreapp3.1\Vimazic.Data.dll
+D:\work-new\QIT\Vimazic\Vimazic.Data\obj\Debug\netcoreapp3.1\Vimazic.Data.pdb
