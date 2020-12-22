@@ -104,7 +104,7 @@
     "karma-webpack": "^2.0.9",
     "mocha": "^5.2.0",
     "nightwatch": "^1.0.6",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^8.0.1",
     "node-sass": "^4.13.1",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "ora": "^2.1.0",
